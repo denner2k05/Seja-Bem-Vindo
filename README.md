@@ -1,5 +1,6 @@
 Olá! Eu sou o Bryant Denner 👋
 
+
 💻 Sobre Mim
 
 Sou estudante do 5º semestre de Ciência da Computação na UnicsUL, apaixonado por desenvolvimento front-end. Possuo conhecimento avançado nas principais linguagens da área e busco sempre criar interfaces modernas e intuitivas.
@@ -31,8 +32,6 @@ Inglês (Intermediário)
 **Email: **dennerr34@gmail.com
 
 LinkedIn: www.linkedin.com/in/bryant-denner-roberto-venancio-521303268
-
-GitHub: github.com/seuusuario
 
 Vamos construir algo incrível juntos! 🚀
 
